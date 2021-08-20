@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .parent-nav{
-    max-width: 1440px;
+    min-width: 1440px;
     background-color: #ceebff;
 }
 header{
